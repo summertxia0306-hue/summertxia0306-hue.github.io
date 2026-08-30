@@ -1,0 +1,59 @@
+{
+  "course_id": "S01D41",
+  "course_version": "e8aaaa15a66f96a4",
+  "title": "口语复习 · Meeting new people",
+  "week": 6,
+  "day": 1,
+  "course_type": "training",
+  "est_minutes": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "repeat",
+      "text": "This is my new classmate.",
+      "audio_asset": "audio/speaking/S01D41/q01.mp3"
+    },
+    {
+      "id": 2,
+      "type": "repeat",
+      "text": "Her name is Jill.",
+      "audio_asset": "audio/speaking/S01D41/q02.mp3"
+    },
+    {
+      "id": 3,
+      "type": "repeat",
+      "text": "His name is Joe.",
+      "audio_asset": "audio/speaking/S01D41/q03.mp3"
+    },
+    {
+      "id": 4,
+      "type": "repeat",
+      "text": "She is eleven years old.",
+      "audio_asset": "audio/speaking/S01D41/q04.mp3"
+    },
+    {
+      "id": 5,
+      "type": "repeat",
+      "text": "Her student number is sixteen.",
+      "audio_asset": "audio/speaking/S01D41/q05.mp3"
+    },
+    {
+      "id": 6,
+      "type": "repeat",
+      "text": "Jill walks to school.",
+      "audio_asset": "audio/speaking/S01D41/q06.mp3"
+    },
+    {
+      "id": 7,
+      "type": "qa",
+      "hint": "用英语说：她的名字叫 Jill。",
+      "audio_asset": "audio/speaking/S01D41/q07.mp3"
+    },
+    {
+      "id": 8,
+      "type": "qa",
+      "hint": "用英语说：她的学号是十六。",
+      "audio_asset": "audio/speaking/S01D41/q08.mp3"
+    }
+  ]
+}

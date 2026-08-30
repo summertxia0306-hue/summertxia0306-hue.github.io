@@ -1,0 +1,222 @@
+{
+  "course_id": "W01D48",
+  "course_version": "534d15f29ed352ca",
+  "title": "听力复习 · Around my home",
+  "week": 6,
+  "day": 8,
+  "course_type": "training",
+  "est_minutes": 20,
+  "test_audio_asset": "audio/listening/W01D48/hello.mp3",
+  "sections": [
+    {
+      "id": "word_discrimination",
+      "name": "听音选词",
+      "tip": "听录音，选出你听到的单词",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 1,
+          "type": "word_choice",
+          "options": [
+            "supermarket",
+            "restaurant",
+            "post office"
+          ],
+          "audio_asset": "audio/listening/W01D48/q01.mp3"
+        },
+        {
+          "id": 2,
+          "type": "word_choice",
+          "options": [
+            "restaurant",
+            "supermarket",
+            "bakery"
+          ],
+          "audio_asset": "audio/listening/W01D48/q02.mp3"
+        },
+        {
+          "id": 3,
+          "type": "word_choice",
+          "options": [
+            "police office",
+            "post office",
+            "teachers' office"
+          ],
+          "audio_asset": "audio/listening/W01D48/q03.mp3"
+        },
+        {
+          "id": 4,
+          "type": "word_choice",
+          "options": [
+            "behind",
+            "between",
+            "in front of"
+          ],
+          "audio_asset": "audio/listening/W01D48/q04.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sentence_meaning",
+      "name": "听句判断",
+      "tip": "听句子，判断和屏幕上句子的意思是不是一样",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 5,
+          "type": "sentence_judge",
+          "display": "There is a supermarket near my home.",
+          "audio_asset": "audio/listening/W01D48/q05.mp3"
+        },
+        {
+          "id": 6,
+          "type": "sentence_judge",
+          "display": "The bakery is behind the post office.",
+          "audio_asset": "audio/listening/W01D48/q06.mp3"
+        },
+        {
+          "id": 7,
+          "type": "sentence_judge",
+          "display": "The restaurant is between the hotel and the shop.",
+          "audio_asset": "audio/listening/W01D48/q07.mp3"
+        },
+        {
+          "id": 8,
+          "type": "sentence_judge",
+          "display": "Nanjing Road is very quiet.",
+          "audio_asset": "audio/listening/W01D48/q08.mp3"
+        }
+      ]
+    },
+    {
+      "id": "question_response",
+      "name": "听问句选答语",
+      "tip": "听问句，选出最合适的回答",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 9,
+          "type": "question_response",
+          "options": [
+            "It is next to the park.",
+            "There is a supermarket.",
+            "I go there."
+          ],
+          "audio_asset": "audio/listening/W01D48/q09.mp3"
+        },
+        {
+          "id": 10,
+          "type": "question_response",
+          "options": [
+            "Yes, there is.",
+            "Yes, it is.",
+            "Yes, there are."
+          ],
+          "audio_asset": "audio/listening/W01D48/q10.mp3"
+        },
+        {
+          "id": 11,
+          "type": "question_response",
+          "options": [
+            "Yes, there are.",
+            "Yes, there is.",
+            "Yes, they are."
+          ],
+          "audio_asset": "audio/listening/W01D48/q11.mp3"
+        },
+        {
+          "id": 12,
+          "type": "question_response",
+          "options": [
+            "It is between two shops.",
+            "It has bread.",
+            "I like the bakery."
+          ],
+          "audio_asset": "audio/listening/W01D48/q12.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "name": "听对话选答案",
+      "tip": "听短对话和问题，选出正确答案",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 13,
+          "type": "dialogue_choice",
+          "options": [
+            "Next to the supermarket.",
+            "Behind the school.",
+            "Between two parks."
+          ],
+          "question_text": "Where is the post office?",
+          "audio_asset": "audio/listening/W01D48/q13.mp3"
+        },
+        {
+          "id": 14,
+          "type": "dialogue_choice",
+          "options": [
+            "A restaurant.",
+            "A school.",
+            "A library."
+          ],
+          "question_text": "What is on Garden Street?",
+          "audio_asset": "audio/listening/W01D48/q14.mp3"
+        },
+        {
+          "id": 15,
+          "type": "dialogue_choice",
+          "options": [
+            "A hotel and a clothes shop.",
+            "A school and a park.",
+            "Two supermarkets."
+          ],
+          "question_text": "What is next to the bakery?",
+          "audio_asset": "audio/listening/W01D48/q15.mp3"
+        },
+        {
+          "id": 16,
+          "type": "dialogue_choice",
+          "options": [
+            "The supermarket.",
+            "The library.",
+            "The school."
+          ],
+          "question_text": "Where does the man want to go?",
+          "audio_asset": "audio/listening/W01D48/q16.mp3"
+        }
+      ]
+    },
+    {
+      "id": "passage",
+      "name": "听短文判断",
+      "tip": "先听短文，再判断四句话是否正确",
+      "max_plays": 3,
+      "shared_audio": true,
+      "passage_audio_asset": "audio/listening/W01D48/p01.mp3",
+      "questions": [
+        {
+          "id": 17,
+          "type": "passage_judge",
+          "statement": "The child lives on Garden Street."
+        },
+        {
+          "id": 18,
+          "type": "passage_judge",
+          "statement": "The supermarket is far from the home."
+        },
+        {
+          "id": 19,
+          "type": "passage_judge",
+          "statement": "The bakery is between two places."
+        },
+        {
+          "id": 20,
+          "type": "passage_judge",
+          "statement": "There is only one restaurant near the park."
+        }
+      ]
+    }
+  ]
+}

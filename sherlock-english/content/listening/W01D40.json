@@ -1,0 +1,222 @@
+{
+  "course_id": "W01D40",
+  "course_version": "3ec564db89da494d",
+  "title": "听力周测卷 · M3U2 Around my home",
+  "week": 5,
+  "day": 5,
+  "course_type": "weekly_test",
+  "est_minutes": 20,
+  "test_audio_asset": "audio/listening/W01D40/hello.mp3",
+  "sections": [
+    {
+      "id": "word_discrimination",
+      "name": "听音选词",
+      "tip": "听录音，选出你听到的单词",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 1,
+          "type": "word_choice",
+          "options": [
+            "slide",
+            "snake",
+            "swing"
+          ],
+          "audio_asset": "audio/listening/W01D40/q01.mp3"
+        },
+        {
+          "id": 2,
+          "type": "word_choice",
+          "options": [
+            "swing",
+            "street",
+            "snake"
+          ],
+          "audio_asset": "audio/listening/W01D40/q02.mp3"
+        },
+        {
+          "id": 3,
+          "type": "word_choice",
+          "options": [
+            "slide",
+            "swing",
+            "shop"
+          ],
+          "audio_asset": "audio/listening/W01D40/q03.mp3"
+        },
+        {
+          "id": 4,
+          "type": "word_choice",
+          "options": [
+            "street",
+            "restaurant",
+            "centre"
+          ],
+          "audio_asset": "audio/listening/W01D40/q04.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sentence_meaning",
+      "name": "听句判断",
+      "tip": "听句子，判断和屏幕上句子的意思是不是一样",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 5,
+          "type": "sentence_judge",
+          "display": "The home is next to the school.",
+          "audio_asset": "audio/listening/W01D40/q05.mp3"
+        },
+        {
+          "id": 6,
+          "type": "sentence_judge",
+          "display": "The school is behind the trees.",
+          "audio_asset": "audio/listening/W01D40/q06.mp3"
+        },
+        {
+          "id": 7,
+          "type": "sentence_judge",
+          "display": "The trees are behind the school.",
+          "audio_asset": "audio/listening/W01D40/q07.mp3"
+        },
+        {
+          "id": 8,
+          "type": "sentence_judge",
+          "display": "This is a swing.",
+          "audio_asset": "audio/listening/W01D40/q08.mp3"
+        }
+      ]
+    },
+    {
+      "id": "question_response",
+      "name": "听问句选答语",
+      "tip": "听问题，选出合适的回答",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 9,
+          "type": "question_response",
+          "options": [
+            "It is on Green Street.",
+            "There are many shops.",
+            "It is a supermarket."
+          ],
+          "audio_asset": "audio/listening/W01D40/q09.mp3"
+        },
+        {
+          "id": 10,
+          "type": "question_response",
+          "options": [
+            "In front of the trees.",
+            "Behind the home.",
+            "Between two hotels."
+          ],
+          "audio_asset": "audio/listening/W01D40/q10.mp3"
+        },
+        {
+          "id": 11,
+          "type": "question_response",
+          "options": [
+            "Yes, there is.",
+            "Yes, it does.",
+            "Yes, they are."
+          ],
+          "audio_asset": "audio/listening/W01D40/q11.mp3"
+        },
+        {
+          "id": 12,
+          "type": "question_response",
+          "options": [
+            "They can visit the shops.",
+            "There are many shops.",
+            "The shops are busy."
+          ],
+          "audio_asset": "audio/listening/W01D40/q12.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "name": "听对话选答案",
+      "tip": "听对话和问题，选出正确答案",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 13,
+          "type": "dialogue_choice",
+          "options": [
+            "Behind the restaurant.",
+            "Next to the school.",
+            "In front of the park."
+          ],
+          "question_text": "Where is the post office?",
+          "audio_asset": "audio/listening/W01D40/q13.mp3"
+        },
+        {
+          "id": 14,
+          "type": "dialogue_choice",
+          "options": [
+            "A supermarket.",
+            "A bakery.",
+            "A hotel."
+          ],
+          "question_text": "What is next to the post office?",
+          "audio_asset": "audio/listening/W01D40/q14.mp3"
+        },
+        {
+          "id": 15,
+          "type": "dialogue_choice",
+          "options": [
+            "The supermarket.",
+            "The school.",
+            "The home."
+          ],
+          "question_text": "What is between two places?",
+          "audio_asset": "audio/listening/W01D40/q15.mp3"
+        },
+        {
+          "id": 16,
+          "type": "dialogue_choice",
+          "options": [
+            "To see the lights.",
+            "To go to school.",
+            "To find a snake."
+          ],
+          "question_text": "Why do people visit in the evening?",
+          "audio_asset": "audio/listening/W01D40/q16.mp3"
+        }
+      ]
+    },
+    {
+      "id": "passage",
+      "name": "听短文判断",
+      "tip": "听短文，判断下面的句子对不对（√ 对 / × 错）",
+      "max_plays": 3,
+      "shared_audio": true,
+      "passage_audio_asset": "audio/listening/W01D40/p01.mp3",
+      "questions": [
+        {
+          "id": 17,
+          "type": "passage_judge",
+          "statement": "The home is next to the school."
+        },
+        {
+          "id": 18,
+          "type": "passage_judge",
+          "statement": "The post office is behind the supermarket."
+        },
+        {
+          "id": 19,
+          "type": "passage_judge",
+          "statement": "People can visit shops on Nanjing Road."
+        },
+        {
+          "id": 20,
+          "type": "passage_judge",
+          "statement": "There are no swings in the park."
+        }
+      ]
+    }
+  ]
+}

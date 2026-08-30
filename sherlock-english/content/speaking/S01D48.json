@@ -1,0 +1,59 @@
+{
+  "course_id": "S01D48",
+  "course_version": "f353dc9df5f35683",
+  "title": "口语复习 · Around my home",
+  "week": 6,
+  "day": 8,
+  "course_type": "training",
+  "est_minutes": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "repeat",
+      "text": "There is a supermarket near my home.",
+      "audio_asset": "audio/speaking/S01D48/q01.mp3"
+    },
+    {
+      "id": 2,
+      "type": "repeat",
+      "text": "The post office is next to the bakery.",
+      "audio_asset": "audio/speaking/S01D48/q02.mp3"
+    },
+    {
+      "id": 3,
+      "type": "repeat",
+      "text": "The restaurant is between two shops.",
+      "audio_asset": "audio/speaking/S01D48/q03.mp3"
+    },
+    {
+      "id": 4,
+      "type": "repeat",
+      "text": "Nanjing Road is very busy.",
+      "audio_asset": "audio/speaking/S01D48/q04.mp3"
+    },
+    {
+      "id": 5,
+      "type": "repeat",
+      "text": "Can you show me the way?",
+      "audio_asset": "audio/speaking/S01D48/q05.mp3"
+    },
+    {
+      "id": 6,
+      "type": "repeat",
+      "text": "It is my pleasure.",
+      "audio_asset": "audio/speaking/S01D48/q06.mp3"
+    },
+    {
+      "id": 7,
+      "type": "qa",
+      "hint": "用英语说：它在面包店旁边。",
+      "audio_asset": "audio/speaking/S01D48/q07.mp3"
+    },
+    {
+      "id": 8,
+      "type": "qa",
+      "hint": "用英语说：是的，有。",
+      "audio_asset": "audio/speaking/S01D48/q08.mp3"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "course_id": "S01D47",
+  "course_version": "c8062025a3e8a3e6",
+  "title": "口语复习 · In our school",
+  "week": 6,
+  "day": 7,
+  "course_type": "training",
+  "est_minutes": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "repeat",
+      "text": "There is a library in our school.",
+      "audio_asset": "audio/speaking/S01D47/q01.mp3"
+    },
+    {
+      "id": 2,
+      "type": "repeat",
+      "text": "There are twelve classrooms.",
+      "audio_asset": "audio/speaking/S01D47/q02.mp3"
+    },
+    {
+      "id": 3,
+      "type": "repeat",
+      "text": "The playground is behind the hall.",
+      "audio_asset": "audio/speaking/S01D47/q03.mp3"
+    },
+    {
+      "id": 4,
+      "type": "repeat",
+      "text": "The office is on the first floor.",
+      "audio_asset": "audio/speaking/S01D47/q04.mp3"
+    },
+    {
+      "id": 5,
+      "type": "repeat",
+      "text": "We can read in the library.",
+      "audio_asset": "audio/speaking/S01D47/q05.mp3"
+    },
+    {
+      "id": 6,
+      "type": "repeat",
+      "text": "We can run in the playground.",
+      "audio_asset": "audio/speaking/S01D47/q06.mp3"
+    },
+    {
+      "id": 7,
+      "type": "qa",
+      "hint": "用英语说：是的，有。",
+      "audio_asset": "audio/speaking/S01D47/q07.mp3"
+    },
+    {
+      "id": 8,
+      "type": "qa",
+      "hint": "用英语说：它在礼堂后面。",
+      "audio_asset": "audio/speaking/S01D47/q08.mp3"
+    }
+  ]
+}

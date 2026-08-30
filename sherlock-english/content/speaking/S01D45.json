@@ -1,0 +1,59 @@
+{
+  "course_id": "S01D45",
+  "course_version": "629a051c6830789d",
+  "title": "口语复习 · Jobs",
+  "week": 6,
+  "day": 5,
+  "course_type": "training",
+  "est_minutes": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "repeat",
+      "text": "He is a firefighter.",
+      "audio_asset": "audio/speaking/S01D45/q01.mp3"
+    },
+    {
+      "id": 2,
+      "type": "repeat",
+      "text": "She is a nurse.",
+      "audio_asset": "audio/speaking/S01D45/q02.mp3"
+    },
+    {
+      "id": 3,
+      "type": "repeat",
+      "text": "My father is a teacher.",
+      "audio_asset": "audio/speaking/S01D45/q03.mp3"
+    },
+    {
+      "id": 4,
+      "type": "repeat",
+      "text": "The doctor works in a hospital.",
+      "audio_asset": "audio/speaking/S01D45/q04.mp3"
+    },
+    {
+      "id": 5,
+      "type": "repeat",
+      "text": "Mr Li is a bus driver.",
+      "audio_asset": "audio/speaking/S01D45/q05.mp3"
+    },
+    {
+      "id": 6,
+      "type": "repeat",
+      "text": "Firefighters can put out a fire.",
+      "audio_asset": "audio/speaking/S01D45/q06.mp3"
+    },
+    {
+      "id": 7,
+      "type": "qa",
+      "hint": "用英语说：她是一名护士。",
+      "audio_asset": "audio/speaking/S01D45/q07.mp3"
+    },
+    {
+      "id": 8,
+      "type": "qa",
+      "hint": "用英语说：是的，他是。",
+      "audio_asset": "audio/speaking/S01D45/q08.mp3"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "course_id": "S01D44",
+  "course_version": "c8c93c1015da9cb7",
+  "title": "口语复习 · Jill's family",
+  "week": 6,
+  "day": 4,
+  "course_type": "training",
+  "est_minutes": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "repeat",
+      "text": "This is my uncle.",
+      "audio_asset": "audio/speaking/S01D44/q01.mp3"
+    },
+    {
+      "id": 2,
+      "type": "repeat",
+      "text": "She is my aunt.",
+      "audio_asset": "audio/speaking/S01D44/q02.mp3"
+    },
+    {
+      "id": 3,
+      "type": "repeat",
+      "text": "I have a cousin.",
+      "audio_asset": "audio/speaking/S01D44/q03.mp3"
+    },
+    {
+      "id": 4,
+      "type": "repeat",
+      "text": "My uncle is a police officer.",
+      "audio_asset": "audio/speaking/S01D44/q04.mp3"
+    },
+    {
+      "id": 5,
+      "type": "repeat",
+      "text": "He is thirty-five years old.",
+      "audio_asset": "audio/speaking/S01D44/q05.mp3"
+    },
+    {
+      "id": 6,
+      "type": "repeat",
+      "text": "My cousin can swim well.",
+      "audio_asset": "audio/speaking/S01D44/q06.mp3"
+    },
+    {
+      "id": 7,
+      "type": "qa",
+      "hint": "用英语说：她是我的阿姨。",
+      "audio_asset": "audio/speaking/S01D44/q07.mp3"
+    },
+    {
+      "id": 8,
+      "type": "qa",
+      "hint": "用英语说：是的，我有。",
+      "audio_asset": "audio/speaking/S01D44/q08.mp3"
+    }
+  ]
+}

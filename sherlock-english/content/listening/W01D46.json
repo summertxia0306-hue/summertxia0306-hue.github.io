@@ -1,0 +1,222 @@
+{
+  "course_id": "W01D46",
+  "course_version": "47887a449f03cef9",
+  "title": "听力复习 · Friends",
+  "week": 6,
+  "day": 6,
+  "course_type": "training",
+  "est_minutes": 20,
+  "test_audio_asset": "audio/listening/W01D46/hello.mp3",
+  "sections": [
+    {
+      "id": "word_discrimination",
+      "name": "听音选词",
+      "tip": "听录音，选出你听到的单词",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 1,
+          "type": "word_choice",
+          "options": [
+            "shirt",
+            "skirt",
+            "shorts"
+          ],
+          "audio_asset": "audio/listening/W01D46/q01.mp3"
+        },
+        {
+          "id": 2,
+          "type": "word_choice",
+          "options": [
+            "dress",
+            "draw",
+            "driver"
+          ],
+          "audio_asset": "audio/listening/W01D46/q02.mp3"
+        },
+        {
+          "id": 3,
+          "type": "word_choice",
+          "options": [
+            "shirt",
+            "shorts",
+            "shoes"
+          ],
+          "audio_asset": "audio/listening/W01D46/q03.mp3"
+        },
+        {
+          "id": 4,
+          "type": "word_choice",
+          "options": [
+            "friend",
+            "front",
+            "fireman"
+          ],
+          "audio_asset": "audio/listening/W01D46/q04.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sentence_meaning",
+      "name": "听句判断",
+      "tip": "听句子，判断和屏幕上句子的意思是不是一样",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 5,
+          "type": "sentence_judge",
+          "display": "My friend has a blue T-shirt.",
+          "audio_asset": "audio/listening/W01D46/q05.mp3"
+        },
+        {
+          "id": 6,
+          "type": "sentence_judge",
+          "display": "She has short hair.",
+          "audio_asset": "audio/listening/W01D46/q06.mp3"
+        },
+        {
+          "id": 7,
+          "type": "sentence_judge",
+          "display": "He can ride a bicycle.",
+          "audio_asset": "audio/listening/W01D46/q07.mp3"
+        },
+        {
+          "id": 8,
+          "type": "sentence_judge",
+          "display": "Kitty likes dance.",
+          "audio_asset": "audio/listening/W01D46/q08.mp3"
+        }
+      ]
+    },
+    {
+      "id": "question_response",
+      "name": "听问句选答语",
+      "tip": "听问句，选出最合适的回答",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 9,
+          "type": "question_response",
+          "options": [
+            "Peter is my friend.",
+            "He is tall.",
+            "He can swim."
+          ],
+          "audio_asset": "audio/listening/W01D46/q09.mp3"
+        },
+        {
+          "id": 10,
+          "type": "question_response",
+          "options": [
+            "She has a red dress.",
+            "She is in red.",
+            "She likes red."
+          ],
+          "audio_asset": "audio/listening/W01D46/q10.mp3"
+        },
+        {
+          "id": 11,
+          "type": "question_response",
+          "options": [
+            "He can ride a bicycle.",
+            "He has a bicycle.",
+            "He likes bicycles."
+          ],
+          "audio_asset": "audio/listening/W01D46/q11.mp3"
+        },
+        {
+          "id": 12,
+          "type": "question_response",
+          "options": [
+            "She likes dancing.",
+            "She can dance.",
+            "She has a dress."
+          ],
+          "audio_asset": "audio/listening/W01D46/q12.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "name": "听对话选答案",
+      "tip": "听短对话和问题，选出正确答案",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 13,
+          "type": "dialogue_choice",
+          "options": [
+            "Tom.",
+            "Ben.",
+            "Joe."
+          ],
+          "question_text": "What is the boy's name?",
+          "audio_asset": "audio/listening/W01D46/q13.mp3"
+        },
+        {
+          "id": 14,
+          "type": "dialogue_choice",
+          "options": [
+            "Red.",
+            "Green.",
+            "Blue."
+          ],
+          "question_text": "What colour is Alice's dress?",
+          "audio_asset": "audio/listening/W01D46/q14.mp3"
+        },
+        {
+          "id": 15,
+          "type": "dialogue_choice",
+          "options": [
+            "Swim.",
+            "Run fast.",
+            "Fly."
+          ],
+          "question_text": "What can the friend do?",
+          "audio_asset": "audio/listening/W01D46/q15.mp3"
+        },
+        {
+          "id": 16,
+          "type": "dialogue_choice",
+          "options": [
+            "Reading.",
+            "Dancing.",
+            "Swimming."
+          ],
+          "question_text": "What does Jill like doing?",
+          "audio_asset": "audio/listening/W01D46/q16.mp3"
+        }
+      ]
+    },
+    {
+      "id": "passage",
+      "name": "听短文判断",
+      "tip": "先听短文，再判断四句话是否正确",
+      "max_plays": 3,
+      "shared_audio": true,
+      "passage_audio_asset": "audio/listening/W01D46/p01.mp3",
+      "questions": [
+        {
+          "id": 17,
+          "type": "passage_judge",
+          "statement": "The friend's name is Alice."
+        },
+        {
+          "id": 18,
+          "type": "passage_judge",
+          "statement": "Alice has short hair."
+        },
+        {
+          "id": 19,
+          "type": "passage_judge",
+          "statement": "Alice can draw well."
+        },
+        {
+          "id": 20,
+          "type": "passage_judge",
+          "statement": "Alice likes swimming."
+        }
+      ]
+    }
+  ]
+}

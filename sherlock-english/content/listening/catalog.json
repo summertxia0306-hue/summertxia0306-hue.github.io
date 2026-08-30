@@ -1,0 +1,176 @@
+[
+  {
+    "course_id": "L4A-T1-W01-D01",
+    "course_version": "876643e2ddc1123e",
+    "title": "四上·第1周·周二｜认识新同学·基础（听力）",
+    "course_type": "training",
+    "week": 1,
+    "day": 1,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D01",
+    "study_pack": "4A-T1-W01-D01"
+  },
+  {
+    "course_id": "L4A-T1-W01-D02",
+    "course_version": "ad3a45ab39e7f753",
+    "title": "四上·第1周·周三｜介绍朋友·数字与能力（听力）",
+    "course_type": "training",
+    "week": 1,
+    "day": 2,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D02",
+    "study_pack": "4A-T1-W01-D02"
+  },
+  {
+    "course_id": "L4A-T1-W01-D03",
+    "course_version": "e0514f388f973aa8",
+    "title": "四上·第1周·周四｜人物信息·连续对话（听力）",
+    "course_type": "training",
+    "week": 1,
+    "day": 3,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D03",
+    "study_pack": "4A-T1-W01-D03"
+  },
+  {
+    "course_id": "L4A-T1-W01-D04",
+    "course_version": "23bdf8971e93d1f6",
+    "title": "四上·第1周·周五｜相似信息辨别（听力）",
+    "course_type": "training",
+    "week": 1,
+    "day": 4,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D04",
+    "study_pack": "4A-T1-W01-D04"
+  },
+  {
+    "course_id": "L4A-T1-W01-D05",
+    "course_version": "a6dc3c5feae2f39b",
+    "title": "四上·第1周·周六｜人物介绍·综合迁移（听力）",
+    "course_type": "training",
+    "week": 1,
+    "day": 5,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D05",
+    "study_pack": "4A-T1-W01-D05"
+  },
+  {
+    "course_id": "L4A-T1-W01-D06",
+    "course_version": "7f40eeb205ad0dd5",
+    "title": "四上·第1周·周日｜M1U1第一周综合（听力）",
+    "course_type": "weekly_test",
+    "week": 1,
+    "day": 6,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D06",
+    "study_pack": "4A-T1-W01-D06"
+  },
+  {
+    "course_id": "W01D39",
+    "course_version": "fa7c641b05b56781",
+    "title": "听力训练 · M3U2 Nanjing Road",
+    "course_type": "training",
+    "week": 5,
+    "day": 4,
+    "visible": true
+  },
+  {
+    "course_id": "W01D40",
+    "course_version": "3ec564db89da494d",
+    "title": "听力周测卷 · M3U2 Around my home",
+    "course_type": "weekly_test",
+    "week": 5,
+    "day": 5,
+    "visible": true
+  },
+  {
+    "course_id": "W01D41",
+    "course_version": "a00df3038c0c584d",
+    "title": "听力复习 · Meeting new people",
+    "course_type": "training",
+    "week": 6,
+    "day": 1,
+    "visible": true
+  },
+  {
+    "course_id": "W01D42",
+    "course_version": "11ebe0e5b339d29a",
+    "title": "听力复习 · Abilities",
+    "course_type": "training",
+    "week": 6,
+    "day": 2,
+    "visible": true
+  },
+  {
+    "course_id": "W01D43",
+    "course_version": "d8cc81854d322332",
+    "title": "听力复习 · How do you feel?",
+    "course_type": "training",
+    "week": 6,
+    "day": 3,
+    "visible": true
+  },
+  {
+    "course_id": "W01D44",
+    "course_version": "c2e207921120ad84",
+    "title": "听力复习 · Jill's family",
+    "course_type": "training",
+    "week": 6,
+    "day": 4,
+    "visible": true
+  },
+  {
+    "course_id": "W01D45",
+    "course_version": "a11743aa09ee7120",
+    "title": "听力复习 · Jobs",
+    "course_type": "training",
+    "week": 6,
+    "day": 5,
+    "visible": true
+  },
+  {
+    "course_id": "W01D46",
+    "course_version": "47887a449f03cef9",
+    "title": "听力复习 · Friends",
+    "course_type": "training",
+    "week": 6,
+    "day": 6,
+    "visible": true
+  },
+  {
+    "course_id": "W01D47",
+    "course_version": "d96a761f5ac612e5",
+    "title": "听力复习 · In our school",
+    "course_type": "training",
+    "week": 6,
+    "day": 7,
+    "visible": true
+  },
+  {
+    "course_id": "W01D48",
+    "course_version": "534d15f29ed352ca",
+    "title": "听力复习 · Around my home",
+    "course_type": "training",
+    "week": 6,
+    "day": 8,
+    "visible": true
+  },
+  {
+    "course_id": "W01D49",
+    "course_version": "0d4f916f4b72ee4e",
+    "title": "听力综合测评 · People and families",
+    "course_type": "weekly_test",
+    "week": 6,
+    "day": 9,
+    "visible": true
+  },
+  {
+    "course_id": "W01D50",
+    "course_version": "61e97b3fb36ddde0",
+    "title": "听力综合测评 · Full review",
+    "course_type": "weekly_test",
+    "week": 6,
+    "day": 10,
+    "visible": true
+  }
+]

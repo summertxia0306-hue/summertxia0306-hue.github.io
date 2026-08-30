@@ -1,0 +1,222 @@
+{
+  "course_id": "W01D42",
+  "course_version": "11ebe0e5b339d29a",
+  "title": "听力复习 · Abilities",
+  "week": 6,
+  "day": 2,
+  "course_type": "training",
+  "est_minutes": 20,
+  "test_audio_asset": "audio/listening/W01D42/hello.mp3",
+  "sections": [
+    {
+      "id": "word_discrimination",
+      "name": "听音选词",
+      "tip": "听录音，选出你听到的单词",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 1,
+          "type": "word_choice",
+          "options": [
+            "draw",
+            "dance",
+            "drink"
+          ],
+          "audio_asset": "audio/listening/W01D42/q01.mp3"
+        },
+        {
+          "id": 2,
+          "type": "word_choice",
+          "options": [
+            "read",
+            "ride",
+            "write"
+          ],
+          "audio_asset": "audio/listening/W01D42/q02.mp3"
+        },
+        {
+          "id": 3,
+          "type": "word_choice",
+          "options": [
+            "skip",
+            "swim",
+            "sing"
+          ],
+          "audio_asset": "audio/listening/W01D42/q03.mp3"
+        },
+        {
+          "id": 4,
+          "type": "word_choice",
+          "options": [
+            "run",
+            "jump",
+            "paint"
+          ],
+          "audio_asset": "audio/listening/W01D42/q04.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sentence_meaning",
+      "name": "听句判断",
+      "tip": "听句子，判断和屏幕上句子的意思是不是一样",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 5,
+          "type": "sentence_judge",
+          "display": "I can paint a picture.",
+          "audio_asset": "audio/listening/W01D42/q05.mp3"
+        },
+        {
+          "id": 6,
+          "type": "sentence_judge",
+          "display": "She can swims well.",
+          "audio_asset": "audio/listening/W01D42/q06.mp3"
+        },
+        {
+          "id": 7,
+          "type": "sentence_judge",
+          "display": "He can run fast.",
+          "audio_asset": "audio/listening/W01D42/q07.mp3"
+        },
+        {
+          "id": 8,
+          "type": "sentence_judge",
+          "display": "The bird can jump high.",
+          "audio_asset": "audio/listening/W01D42/q08.mp3"
+        }
+      ]
+    },
+    {
+      "id": "question_response",
+      "name": "听问句选答语",
+      "tip": "听问句，选出最合适的回答",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 9,
+          "type": "question_response",
+          "options": [
+            "I can draw.",
+            "Yes, I can.",
+            "I like drawing."
+          ],
+          "audio_asset": "audio/listening/W01D42/q09.mp3"
+        },
+        {
+          "id": 10,
+          "type": "question_response",
+          "options": [
+            "Yes, she does.",
+            "Yes, she can.",
+            "Yes, she is."
+          ],
+          "audio_asset": "audio/listening/W01D42/q10.mp3"
+        },
+        {
+          "id": 11,
+          "type": "question_response",
+          "options": [
+            "No, it can't.",
+            "No, it doesn't.",
+            "No, it isn't."
+          ],
+          "audio_asset": "audio/listening/W01D42/q11.mp3"
+        },
+        {
+          "id": 12,
+          "type": "question_response",
+          "options": [
+            "He can run.",
+            "She can run.",
+            "He likes running."
+          ],
+          "audio_asset": "audio/listening/W01D42/q12.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "name": "听对话选答案",
+      "tip": "听短对话和问题，选出正确答案",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 13,
+          "type": "dialogue_choice",
+          "options": [
+            "A robot.",
+            "A flower.",
+            "A tree."
+          ],
+          "question_text": "What can Ben draw?",
+          "audio_asset": "audio/listening/W01D42/q13.mp3"
+        },
+        {
+          "id": 14,
+          "type": "dialogue_choice",
+          "options": [
+            "Swim.",
+            "Jump.",
+            "Fly."
+          ],
+          "question_text": "What can Jill do?",
+          "audio_asset": "audio/listening/W01D42/q14.mp3"
+        },
+        {
+          "id": 15,
+          "type": "dialogue_choice",
+          "options": [
+            "Yes, he can.",
+            "No, he can't.",
+            "We don't know."
+          ],
+          "question_text": "Can Peter write?",
+          "audio_asset": "audio/listening/W01D42/q15.mp3"
+        },
+        {
+          "id": 16,
+          "type": "dialogue_choice",
+          "options": [
+            "Run fast.",
+            "Swim well.",
+            "Fly high."
+          ],
+          "question_text": "What can the bird do?",
+          "audio_asset": "audio/listening/W01D42/q16.mp3"
+        }
+      ]
+    },
+    {
+      "id": "passage",
+      "name": "听短文判断",
+      "tip": "先听短文，再判断四句话是否正确",
+      "max_plays": 3,
+      "shared_audio": true,
+      "passage_audio_asset": "audio/listening/W01D42/p01.mp3",
+      "questions": [
+        {
+          "id": 17,
+          "type": "passage_judge",
+          "statement": "Alice can read."
+        },
+        {
+          "id": 18,
+          "type": "passage_judge",
+          "statement": "Alice likes swimming."
+        },
+        {
+          "id": 19,
+          "type": "passage_judge",
+          "statement": "Ben can swim."
+        },
+        {
+          "id": 20,
+          "type": "passage_judge",
+          "statement": "The bird can fly high."
+        }
+      ]
+    }
+  ]
+}

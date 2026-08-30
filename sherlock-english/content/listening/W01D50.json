@@ -1,0 +1,222 @@
+{
+  "course_id": "W01D50",
+  "course_version": "61e97b3fb36ddde0",
+  "title": "听力综合测评 · Full review",
+  "week": 6,
+  "day": 10,
+  "course_type": "weekly_test",
+  "est_minutes": 20,
+  "test_audio_asset": "audio/listening/W01D50/hello.mp3",
+  "sections": [
+    {
+      "id": "word_discrimination",
+      "name": "听音选词",
+      "tip": "听录音，选出你听到的单词",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 1,
+          "type": "word_choice",
+          "options": [
+            "present",
+            "parent",
+            "restaurant"
+          ],
+          "audio_asset": "audio/listening/W01D50/q01.mp3"
+        },
+        {
+          "id": 2,
+          "type": "word_choice",
+          "options": [
+            "bitter",
+            "butter",
+            "better"
+          ],
+          "audio_asset": "audio/listening/W01D50/q02.mp3"
+        },
+        {
+          "id": 3,
+          "type": "word_choice",
+          "options": [
+            "library",
+            "bakery",
+            "hospital"
+          ],
+          "audio_asset": "audio/listening/W01D50/q03.mp3"
+        },
+        {
+          "id": 4,
+          "type": "word_choice",
+          "options": [
+            "behind",
+            "between",
+            "next to"
+          ],
+          "audio_asset": "audio/listening/W01D50/q04.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sentence_meaning",
+      "name": "听句判断",
+      "tip": "听句子，判断和屏幕上句子的意思是不是一样",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 5,
+          "type": "sentence_judge",
+          "display": "This is a aeroplane.",
+          "audio_asset": "audio/listening/W01D50/q05.mp3"
+        },
+        {
+          "id": 6,
+          "type": "sentence_judge",
+          "display": "These are my books.",
+          "audio_asset": "audio/listening/W01D50/q06.mp3"
+        },
+        {
+          "id": 7,
+          "type": "sentence_judge",
+          "display": "A dog have four legs.",
+          "audio_asset": "audio/listening/W01D50/q07.mp3"
+        },
+        {
+          "id": 8,
+          "type": "sentence_judge",
+          "display": "There are two shops near the school.",
+          "audio_asset": "audio/listening/W01D50/q08.mp3"
+        }
+      ]
+    },
+    {
+      "id": "question_response",
+      "name": "听问句选答语",
+      "tip": "听问句，选出最合适的回答",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 9,
+          "type": "question_response",
+          "options": [
+            "It's fourteen.",
+            "I'm fourteen.",
+            "She's fourteen."
+          ],
+          "audio_asset": "audio/listening/W01D50/q09.mp3"
+        },
+        {
+          "id": 10,
+          "type": "question_response",
+          "options": [
+            "Yes, it can.",
+            "Yes, it does.",
+            "Yes, it is."
+          ],
+          "audio_asset": "audio/listening/W01D50/q10.mp3"
+        },
+        {
+          "id": 11,
+          "type": "question_response",
+          "options": [
+            "Yes, there are.",
+            "Yes, there is.",
+            "Yes, they are."
+          ],
+          "audio_asset": "audio/listening/W01D50/q11.mp3"
+        },
+        {
+          "id": 12,
+          "type": "question_response",
+          "options": [
+            "It is next to the bakery.",
+            "There is one post office.",
+            "I can show you."
+          ],
+          "audio_asset": "audio/listening/W01D50/q12.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "name": "听对话选答案",
+      "tip": "听短对话和问题，选出正确答案",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 13,
+          "type": "dialogue_choice",
+          "options": [
+            "Alice.",
+            "Jill.",
+            "Kitty."
+          ],
+          "question_text": "What is the girl's name?",
+          "audio_asset": "audio/listening/W01D50/q13.mp3"
+        },
+        {
+          "id": 14,
+          "type": "dialogue_choice",
+          "options": [
+            "Thirsty.",
+            "Hungry.",
+            "Sad."
+          ],
+          "question_text": "How does the girl feel?",
+          "audio_asset": "audio/listening/W01D50/q14.mp3"
+        },
+        {
+          "id": 15,
+          "type": "dialogue_choice",
+          "options": [
+            "The hall.",
+            "The playground.",
+            "The office."
+          ],
+          "question_text": "What is in front of the library?",
+          "audio_asset": "audio/listening/W01D50/q15.mp3"
+        },
+        {
+          "id": 16,
+          "type": "dialogue_choice",
+          "options": [
+            "A restaurant.",
+            "A school.",
+            "A hospital."
+          ],
+          "question_text": "What is next to the supermarket?",
+          "audio_asset": "audio/listening/W01D50/q16.mp3"
+        }
+      ]
+    },
+    {
+      "id": "passage",
+      "name": "听短文判断",
+      "tip": "先听短文，再判断四句话是否正确",
+      "max_plays": 3,
+      "shared_audio": true,
+      "passage_audio_asset": "audio/listening/W01D50/p01.mp3",
+      "questions": [
+        {
+          "id": 17,
+          "type": "passage_judge",
+          "statement": "Alice is eleven."
+        },
+        {
+          "id": 18,
+          "type": "passage_judge",
+          "statement": "Alice cannot swim."
+        },
+        {
+          "id": 19,
+          "type": "passage_judge",
+          "statement": "Her father is a teacher."
+        },
+        {
+          "id": 20,
+          "type": "passage_judge",
+          "statement": "The bakery is next to her home."
+        }
+      ]
+    }
+  ]
+}

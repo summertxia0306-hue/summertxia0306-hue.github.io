@@ -1,0 +1,222 @@
+{
+  "course_id": "W01D45",
+  "course_version": "a11743aa09ee7120",
+  "title": "听力复习 · Jobs",
+  "week": 6,
+  "day": 5,
+  "course_type": "training",
+  "est_minutes": 20,
+  "test_audio_asset": "audio/listening/W01D45/hello.mp3",
+  "sections": [
+    {
+      "id": "word_discrimination",
+      "name": "听音选词",
+      "tip": "听录音，选出你听到的单词",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 1,
+          "type": "word_choice",
+          "options": [
+            "firefighter",
+            "teacher",
+            "doctor"
+          ],
+          "audio_asset": "audio/listening/W01D45/q01.mp3"
+        },
+        {
+          "id": 2,
+          "type": "word_choice",
+          "options": [
+            "nurse",
+            "teacher",
+            "driver"
+          ],
+          "audio_asset": "audio/listening/W01D45/q02.mp3"
+        },
+        {
+          "id": 3,
+          "type": "word_choice",
+          "options": [
+            "doctor",
+            "daughter",
+            "driver"
+          ],
+          "audio_asset": "audio/listening/W01D45/q03.mp3"
+        },
+        {
+          "id": 4,
+          "type": "word_choice",
+          "options": [
+            "police officer",
+            "bus driver",
+            "firefighter"
+          ],
+          "audio_asset": "audio/listening/W01D45/q04.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sentence_meaning",
+      "name": "听句判断",
+      "tip": "听句子，判断和屏幕上句子的意思是不是一样",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 5,
+          "type": "sentence_judge",
+          "display": "Her father is a firefighter.",
+          "audio_asset": "audio/listening/W01D45/q05.mp3"
+        },
+        {
+          "id": 6,
+          "type": "sentence_judge",
+          "display": "Mrs White is a nurse.",
+          "audio_asset": "audio/listening/W01D45/q06.mp3"
+        },
+        {
+          "id": 7,
+          "type": "sentence_judge",
+          "display": "The doctor works in a hospital.",
+          "audio_asset": "audio/listening/W01D45/q07.mp3"
+        },
+        {
+          "id": 8,
+          "type": "sentence_judge",
+          "display": "Mr Li drives a fire engine.",
+          "audio_asset": "audio/listening/W01D45/q08.mp3"
+        }
+      ]
+    },
+    {
+      "id": "question_response",
+      "name": "听问句选答语",
+      "tip": "听问句，选出最合适的回答",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 9,
+          "type": "question_response",
+          "options": [
+            "She is a nurse.",
+            "She can help.",
+            "She likes reading."
+          ],
+          "audio_asset": "audio/listening/W01D45/q09.mp3"
+        },
+        {
+          "id": 10,
+          "type": "question_response",
+          "options": [
+            "Yes, he is.",
+            "Yes, he does.",
+            "Yes, he can."
+          ],
+          "audio_asset": "audio/listening/W01D45/q10.mp3"
+        },
+        {
+          "id": 11,
+          "type": "question_response",
+          "options": [
+            "At a school.",
+            "In a fire station.",
+            "On a bus."
+          ],
+          "audio_asset": "audio/listening/W01D45/q11.mp3"
+        },
+        {
+          "id": 12,
+          "type": "question_response",
+          "options": [
+            "Put out a fire.",
+            "Teach English.",
+            "Drive a school bus."
+          ],
+          "audio_asset": "audio/listening/W01D45/q12.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "name": "听对话选答案",
+      "tip": "听短对话和问题，选出正确答案",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 13,
+          "type": "dialogue_choice",
+          "options": [
+            "A nurse.",
+            "A teacher.",
+            "A doctor."
+          ],
+          "question_text": "What is Jill's mother's job?",
+          "audio_asset": "audio/listening/W01D45/q13.mp3"
+        },
+        {
+          "id": 14,
+          "type": "dialogue_choice",
+          "options": [
+            "He is a police officer.",
+            "He is a firefighter.",
+            "He is a doctor."
+          ],
+          "question_text": "What does Mr Black do?",
+          "audio_asset": "audio/listening/W01D45/q14.mp3"
+        },
+        {
+          "id": 15,
+          "type": "dialogue_choice",
+          "options": [
+            "Mr Li.",
+            "Mrs Li.",
+            "Jill."
+          ],
+          "question_text": "Who drives the bus?",
+          "audio_asset": "audio/listening/W01D45/q15.mp3"
+        },
+        {
+          "id": 16,
+          "type": "dialogue_choice",
+          "options": [
+            "At a school.",
+            "At a hospital.",
+            "At a fire station."
+          ],
+          "question_text": "Where does the father work?",
+          "audio_asset": "audio/listening/W01D45/q16.mp3"
+        }
+      ]
+    },
+    {
+      "id": "passage",
+      "name": "听短文判断",
+      "tip": "先听短文，再判断四句话是否正确",
+      "max_plays": 3,
+      "shared_audio": true,
+      "passage_audio_asset": "audio/listening/W01D45/p01.mp3",
+      "questions": [
+        {
+          "id": 17,
+          "type": "passage_judge",
+          "statement": "Peter's father is a teacher."
+        },
+        {
+          "id": 18,
+          "type": "passage_judge",
+          "statement": "Peter's mother is a nurse."
+        },
+        {
+          "id": 19,
+          "type": "passage_judge",
+          "statement": "Jill's father is a firefighter."
+        },
+        {
+          "id": 20,
+          "type": "passage_judge",
+          "statement": "Jill's mother is a doctor."
+        }
+      ]
+    }
+  ]
+}

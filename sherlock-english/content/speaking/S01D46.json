@@ -1,0 +1,59 @@
+{
+  "course_id": "S01D46",
+  "course_version": "3bd468bff8e6544a",
+  "title": "口语复习 · Friends",
+  "week": 6,
+  "day": 6,
+  "course_type": "training",
+  "est_minutes": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "repeat",
+      "text": "I have a new friend.",
+      "audio_asset": "audio/speaking/S01D46/q01.mp3"
+    },
+    {
+      "id": 2,
+      "type": "repeat",
+      "text": "Her name is Alice.",
+      "audio_asset": "audio/speaking/S01D46/q02.mp3"
+    },
+    {
+      "id": 3,
+      "type": "repeat",
+      "text": "She has long hair.",
+      "audio_asset": "audio/speaking/S01D46/q03.mp3"
+    },
+    {
+      "id": 4,
+      "type": "repeat",
+      "text": "She has a yellow dress.",
+      "audio_asset": "audio/speaking/S01D46/q04.mp3"
+    },
+    {
+      "id": 5,
+      "type": "repeat",
+      "text": "She can draw well.",
+      "audio_asset": "audio/speaking/S01D46/q05.mp3"
+    },
+    {
+      "id": 6,
+      "type": "repeat",
+      "text": "She likes reading.",
+      "audio_asset": "audio/speaking/S01D46/q06.mp3"
+    },
+    {
+      "id": 7,
+      "type": "qa",
+      "hint": "用英语说：她有一条黄色连衣裙。",
+      "audio_asset": "audio/speaking/S01D46/q07.mp3"
+    },
+    {
+      "id": 8,
+      "type": "qa",
+      "hint": "用英语说：她喜欢阅读。",
+      "audio_asset": "audio/speaking/S01D46/q08.mp3"
+    }
+  ]
+}

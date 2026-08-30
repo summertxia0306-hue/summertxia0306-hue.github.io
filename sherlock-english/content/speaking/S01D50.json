@@ -1,0 +1,59 @@
+{
+  "course_id": "S01D50",
+  "course_version": "44ecb6fc4da582da",
+  "title": "口语综合测评 · Full review",
+  "week": 6,
+  "day": 10,
+  "course_type": "weekly_review",
+  "est_minutes": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "repeat",
+      "text": "Alice is my classmate.",
+      "audio_asset": "audio/speaking/S01D50/q01.mp3"
+    },
+    {
+      "id": 2,
+      "type": "repeat",
+      "text": "She can swim well.",
+      "audio_asset": "audio/speaking/S01D50/q02.mp3"
+    },
+    {
+      "id": 3,
+      "type": "repeat",
+      "text": "Her father is a teacher.",
+      "audio_asset": "audio/speaking/S01D50/q03.mp3"
+    },
+    {
+      "id": 4,
+      "type": "repeat",
+      "text": "There is a library in her school.",
+      "audio_asset": "audio/speaking/S01D50/q04.mp3"
+    },
+    {
+      "id": 5,
+      "type": "repeat",
+      "text": "The playground is behind the hall.",
+      "audio_asset": "audio/speaking/S01D50/q05.mp3"
+    },
+    {
+      "id": 6,
+      "type": "repeat",
+      "text": "A supermarket is next to her home.",
+      "audio_asset": "audio/speaking/S01D50/q06.mp3"
+    },
+    {
+      "id": 7,
+      "type": "qa",
+      "hint": "用英语说：它在礼堂后面。",
+      "audio_asset": "audio/speaking/S01D50/q07.mp3"
+    },
+    {
+      "id": 8,
+      "type": "qa",
+      "hint": "用英语说：是的，有。",
+      "audio_asset": "audio/speaking/S01D50/q08.mp3"
+    }
+  ]
+}

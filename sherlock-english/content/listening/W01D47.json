@@ -1,0 +1,222 @@
+{
+  "course_id": "W01D47",
+  "course_version": "d96a761f5ac612e5",
+  "title": "听力复习 · In our school",
+  "week": 6,
+  "day": 7,
+  "course_type": "training",
+  "est_minutes": 20,
+  "test_audio_asset": "audio/listening/W01D47/hello.mp3",
+  "sections": [
+    {
+      "id": "word_discrimination",
+      "name": "听音选词",
+      "tip": "听录音，选出你听到的单词",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 1,
+          "type": "word_choice",
+          "options": [
+            "library",
+            "classroom",
+            "playground"
+          ],
+          "audio_asset": "audio/listening/W01D47/q01.mp3"
+        },
+        {
+          "id": 2,
+          "type": "word_choice",
+          "options": [
+            "office",
+            "hall",
+            "toilet"
+          ],
+          "audio_asset": "audio/listening/W01D47/q02.mp3"
+        },
+        {
+          "id": 3,
+          "type": "word_choice",
+          "options": [
+            "classroom",
+            "playground",
+            "school"
+          ],
+          "audio_asset": "audio/listening/W01D47/q03.mp3"
+        },
+        {
+          "id": 4,
+          "type": "word_choice",
+          "options": [
+            "behind",
+            "between",
+            "beside"
+          ],
+          "audio_asset": "audio/listening/W01D47/q04.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sentence_meaning",
+      "name": "听句判断",
+      "tip": "听句子，判断和屏幕上句子的意思是不是一样",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 5,
+          "type": "sentence_judge",
+          "display": "There is a library in our school.",
+          "audio_asset": "audio/listening/W01D47/q05.mp3"
+        },
+        {
+          "id": 6,
+          "type": "sentence_judge",
+          "display": "The playground is in front of the classroom building.",
+          "audio_asset": "audio/listening/W01D47/q06.mp3"
+        },
+        {
+          "id": 7,
+          "type": "sentence_judge",
+          "display": "There are many books in the library.",
+          "audio_asset": "audio/listening/W01D47/q07.mp3"
+        },
+        {
+          "id": 8,
+          "type": "sentence_judge",
+          "display": "The teachers' office is on the second floor.",
+          "audio_asset": "audio/listening/W01D47/q08.mp3"
+        }
+      ]
+    },
+    {
+      "id": "question_response",
+      "name": "听问句选答语",
+      "tip": "听问句，选出最合适的回答",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 9,
+          "type": "question_response",
+          "options": [
+            "Yes, there is.",
+            "Yes, it is.",
+            "Yes, there are."
+          ],
+          "audio_asset": "audio/listening/W01D47/q09.mp3"
+        },
+        {
+          "id": 10,
+          "type": "question_response",
+          "options": [
+            "Yes, there are.",
+            "Yes, there is.",
+            "Yes, they are."
+          ],
+          "audio_asset": "audio/listening/W01D47/q10.mp3"
+        },
+        {
+          "id": 11,
+          "type": "question_response",
+          "options": [
+            "It is behind the hall.",
+            "There are two playgrounds.",
+            "I can run there."
+          ],
+          "audio_asset": "audio/listening/W01D47/q11.mp3"
+        },
+        {
+          "id": 12,
+          "type": "question_response",
+          "options": [
+            "I can read books.",
+            "I can play football.",
+            "I can swim."
+          ],
+          "audio_asset": "audio/listening/W01D47/q12.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "name": "听对话选答案",
+      "tip": "听短对话和问题，选出正确答案",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 13,
+          "type": "dialogue_choice",
+          "options": [
+            "Behind the classroom building.",
+            "In front of the gate.",
+            "Next to the playground."
+          ],
+          "question_text": "Where is the library?",
+          "audio_asset": "audio/listening/W01D47/q13.mp3"
+        },
+        {
+          "id": 14,
+          "type": "dialogue_choice",
+          "options": [
+            "On the first floor.",
+            "On the second floor.",
+            "Behind the school."
+          ],
+          "question_text": "Where is the computer room?",
+          "audio_asset": "audio/listening/W01D47/q14.mp3"
+        },
+        {
+          "id": 15,
+          "type": "dialogue_choice",
+          "options": [
+            "Ten.",
+            "Eleven.",
+            "Twelve."
+          ],
+          "question_text": "How many classrooms are there?",
+          "audio_asset": "audio/listening/W01D47/q15.mp3"
+        },
+        {
+          "id": 16,
+          "type": "dialogue_choice",
+          "options": [
+            "Yes, they can.",
+            "No, they can't.",
+            "We don't know."
+          ],
+          "question_text": "Can the children run there?",
+          "audio_asset": "audio/listening/W01D47/q16.mp3"
+        }
+      ]
+    },
+    {
+      "id": "passage",
+      "name": "听短文判断",
+      "tip": "先听短文，再判断四句话是否正确",
+      "max_plays": 3,
+      "shared_audio": true,
+      "passage_audio_asset": "audio/listening/W01D47/p01.mp3",
+      "questions": [
+        {
+          "id": 17,
+          "type": "passage_judge",
+          "statement": "The school is big."
+        },
+        {
+          "id": 18,
+          "type": "passage_judge",
+          "statement": "The library is in front of the classroom building."
+        },
+        {
+          "id": 19,
+          "type": "passage_judge",
+          "statement": "There are many books in the library."
+        },
+        {
+          "id": 20,
+          "type": "passage_judge",
+          "statement": "The playground is behind the hall."
+        }
+      ]
+    }
+  ]
+}

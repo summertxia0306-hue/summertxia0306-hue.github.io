@@ -1,0 +1,59 @@
+{
+  "course_id": "S01D42",
+  "course_version": "15f6890bc10acd60",
+  "title": "口语复习 · Abilities",
+  "week": 6,
+  "day": 2,
+  "course_type": "training",
+  "est_minutes": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "repeat",
+      "text": "I can read and write.",
+      "audio_asset": "audio/speaking/S01D42/q01.mp3"
+    },
+    {
+      "id": 2,
+      "type": "repeat",
+      "text": "She can draw a flower.",
+      "audio_asset": "audio/speaking/S01D42/q02.mp3"
+    },
+    {
+      "id": 3,
+      "type": "repeat",
+      "text": "He can run fast.",
+      "audio_asset": "audio/speaking/S01D42/q03.mp3"
+    },
+    {
+      "id": 4,
+      "type": "repeat",
+      "text": "The fish can swim well.",
+      "audio_asset": "audio/speaking/S01D42/q04.mp3"
+    },
+    {
+      "id": 5,
+      "type": "repeat",
+      "text": "The bird can fly high.",
+      "audio_asset": "audio/speaking/S01D42/q05.mp3"
+    },
+    {
+      "id": 6,
+      "type": "repeat",
+      "text": "She cannot jump high.",
+      "audio_asset": "audio/speaking/S01D42/q06.mp3"
+    },
+    {
+      "id": 7,
+      "type": "qa",
+      "hint": "用英语说：她会画画。",
+      "audio_asset": "audio/speaking/S01D42/q07.mp3"
+    },
+    {
+      "id": 8,
+      "type": "qa",
+      "hint": "用英语说：不，它不会。",
+      "audio_asset": "audio/speaking/S01D42/q08.mp3"
+    }
+  ]
+}

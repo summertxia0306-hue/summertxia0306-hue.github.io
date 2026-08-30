@@ -1,0 +1,59 @@
+{
+  "course_id": "S01D39",
+  "course_version": "d16bf656e92b3078",
+  "title": "口语练习 · M3U2 Nanjing Road",
+  "week": 5,
+  "day": 4,
+  "course_type": "training",
+  "est_minutes": 10,
+  "questions": [
+    {
+      "id": 1,
+      "type": "repeat",
+      "text": "Nanjing Road is in the centre of Shanghai.",
+      "audio_asset": "audio/speaking/S01D39/q01.mp3"
+    },
+    {
+      "id": 2,
+      "type": "repeat",
+      "text": "It is very busy.",
+      "audio_asset": "audio/speaking/S01D39/q02.mp3"
+    },
+    {
+      "id": 3,
+      "type": "repeat",
+      "text": "Many people visit the shops.",
+      "audio_asset": "audio/speaking/S01D39/q03.mp3"
+    },
+    {
+      "id": 4,
+      "type": "repeat",
+      "text": "They can buy clothes and watches.",
+      "audio_asset": "audio/speaking/S01D39/q04.mp3"
+    },
+    {
+      "id": 5,
+      "type": "repeat",
+      "text": "They can eat in the restaurants.",
+      "audio_asset": "audio/speaking/S01D39/q05.mp3"
+    },
+    {
+      "id": 6,
+      "type": "repeat",
+      "text": "The lights are bright and beautiful.",
+      "audio_asset": "audio/speaking/S01D39/q06.mp3"
+    },
+    {
+      "id": 7,
+      "type": "qa",
+      "hint": "用英语说：它在上海市中心。",
+      "audio_asset": "audio/speaking/S01D39/q07.mp3"
+    },
+    {
+      "id": 8,
+      "type": "qa",
+      "hint": "用英语说：他们可以买衣服和手表。",
+      "audio_asset": "audio/speaking/S01D39/q08.mp3"
+    }
+  ]
+}

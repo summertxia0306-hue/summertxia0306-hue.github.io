@@ -1,0 +1,176 @@
+[
+  {
+    "course_id": "S01D39",
+    "course_version": "d16bf656e92b3078",
+    "title": "口语练习 · M3U2 Nanjing Road",
+    "course_type": "training",
+    "week": 5,
+    "day": 4,
+    "visible": true
+  },
+  {
+    "course_id": "S01D40",
+    "course_version": "63c7617e93438df6",
+    "title": "口语周复习 · M3U2 Around my home",
+    "course_type": "weekly_review",
+    "week": 5,
+    "day": 5,
+    "visible": true
+  },
+  {
+    "course_id": "S01D41",
+    "course_version": "e8aaaa15a66f96a4",
+    "title": "口语复习 · Meeting new people",
+    "course_type": "training",
+    "week": 6,
+    "day": 1,
+    "visible": true
+  },
+  {
+    "course_id": "S01D42",
+    "course_version": "15f6890bc10acd60",
+    "title": "口语复习 · Abilities",
+    "course_type": "training",
+    "week": 6,
+    "day": 2,
+    "visible": true
+  },
+  {
+    "course_id": "S01D43",
+    "course_version": "f5bfbf456ab9123b",
+    "title": "口语复习 · How do you feel?",
+    "course_type": "training",
+    "week": 6,
+    "day": 3,
+    "visible": true
+  },
+  {
+    "course_id": "S01D44",
+    "course_version": "c8c93c1015da9cb7",
+    "title": "口语复习 · Jill's family",
+    "course_type": "training",
+    "week": 6,
+    "day": 4,
+    "visible": true
+  },
+  {
+    "course_id": "S01D45",
+    "course_version": "629a051c6830789d",
+    "title": "口语复习 · Jobs",
+    "course_type": "training",
+    "week": 6,
+    "day": 5,
+    "visible": true
+  },
+  {
+    "course_id": "S01D46",
+    "course_version": "3bd468bff8e6544a",
+    "title": "口语复习 · Friends",
+    "course_type": "training",
+    "week": 6,
+    "day": 6,
+    "visible": true
+  },
+  {
+    "course_id": "S01D47",
+    "course_version": "c8062025a3e8a3e6",
+    "title": "口语复习 · In our school",
+    "course_type": "training",
+    "week": 6,
+    "day": 7,
+    "visible": true
+  },
+  {
+    "course_id": "S01D48",
+    "course_version": "f353dc9df5f35683",
+    "title": "口语复习 · Around my home",
+    "course_type": "training",
+    "week": 6,
+    "day": 8,
+    "visible": true
+  },
+  {
+    "course_id": "S01D49",
+    "course_version": "4f0af643e0d50f7f",
+    "title": "口语综合测评 · People and families",
+    "course_type": "weekly_review",
+    "week": 6,
+    "day": 9,
+    "visible": true
+  },
+  {
+    "course_id": "S01D50",
+    "course_version": "44ecb6fc4da582da",
+    "title": "口语综合测评 · Full review",
+    "course_type": "weekly_review",
+    "week": 6,
+    "day": 10,
+    "visible": true
+  },
+  {
+    "course_id": "S4A-T1-W01-D01",
+    "course_version": "11d50c768469228f",
+    "title": "四上·第1周·周二｜认识新同学·基础（口语）",
+    "course_type": "training",
+    "week": 1,
+    "day": 1,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D01",
+    "study_pack": "4A-T1-W01-D01"
+  },
+  {
+    "course_id": "S4A-T1-W01-D02",
+    "course_version": "1db7e07b3a33e7d2",
+    "title": "四上·第1周·周三｜介绍朋友·数字与能力（口语）",
+    "course_type": "training",
+    "week": 1,
+    "day": 2,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D02",
+    "study_pack": "4A-T1-W01-D02"
+  },
+  {
+    "course_id": "S4A-T1-W01-D03",
+    "course_version": "de4244a55094b121",
+    "title": "四上·第1周·周四｜人物信息·连续对话（口语）",
+    "course_type": "training",
+    "week": 1,
+    "day": 3,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D03",
+    "study_pack": "4A-T1-W01-D03"
+  },
+  {
+    "course_id": "S4A-T1-W01-D04",
+    "course_version": "b73f8f1a4316418b",
+    "title": "四上·第1周·周五｜相似信息辨别（口语）",
+    "course_type": "training",
+    "week": 1,
+    "day": 4,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D04",
+    "study_pack": "4A-T1-W01-D04"
+  },
+  {
+    "course_id": "S4A-T1-W01-D05",
+    "course_version": "ad2b9558f34d59e5",
+    "title": "四上·第1周·周六｜人物介绍·综合迁移（口语）",
+    "course_type": "training",
+    "week": 1,
+    "day": 5,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D05",
+    "study_pack": "4A-T1-W01-D05"
+  },
+  {
+    "course_id": "S4A-T1-W01-D06",
+    "course_version": "ecbfc1ff588eab1a",
+    "title": "四上·第1周·周日｜M1U1第一周综合（口语）",
+    "course_type": "weekly_review",
+    "week": 1,
+    "day": 6,
+    "visible": false,
+    "pair_id": "4A-T1-W01-D06",
+    "study_pack": "4A-T1-W01-D06"
+  }
+]

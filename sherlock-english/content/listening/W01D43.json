@@ -1,0 +1,222 @@
+{
+  "course_id": "W01D43",
+  "course_version": "d8cc81854d322332",
+  "title": "听力复习 · How do you feel?",
+  "week": 6,
+  "day": 3,
+  "course_type": "training",
+  "est_minutes": 20,
+  "test_audio_asset": "audio/listening/W01D43/hello.mp3",
+  "sections": [
+    {
+      "id": "word_discrimination",
+      "name": "听音选词",
+      "tip": "听录音，选出你听到的单词",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 1,
+          "type": "word_choice",
+          "options": [
+            "hungry",
+            "happy",
+            "thirsty"
+          ],
+          "audio_asset": "audio/listening/W01D43/q01.mp3"
+        },
+        {
+          "id": 2,
+          "type": "word_choice",
+          "options": [
+            "thirty",
+            "thirsty",
+            "tired"
+          ],
+          "audio_asset": "audio/listening/W01D43/q02.mp3"
+        },
+        {
+          "id": 3,
+          "type": "word_choice",
+          "options": [
+            "sad",
+            "tired",
+            "full"
+          ],
+          "audio_asset": "audio/listening/W01D43/q03.mp3"
+        },
+        {
+          "id": 4,
+          "type": "word_choice",
+          "options": [
+            "biscuit",
+            "basket",
+            "butter"
+          ],
+          "audio_asset": "audio/listening/W01D43/q04.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sentence_meaning",
+      "name": "听句判断",
+      "tip": "听句子，判断和屏幕上句子的意思是不是一样",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 5,
+          "type": "sentence_judge",
+          "display": "I'm hungry.",
+          "audio_asset": "audio/listening/W01D43/q05.mp3"
+        },
+        {
+          "id": 6,
+          "type": "sentence_judge",
+          "display": "She's tired.",
+          "audio_asset": "audio/listening/W01D43/q06.mp3"
+        },
+        {
+          "id": 7,
+          "type": "sentence_judge",
+          "display": "Have some water.",
+          "audio_asset": "audio/listening/W01D43/q07.mp3"
+        },
+        {
+          "id": 8,
+          "type": "sentence_judge",
+          "display": "We are hungry now.",
+          "audio_asset": "audio/listening/W01D43/q08.mp3"
+        }
+      ]
+    },
+    {
+      "id": "question_response",
+      "name": "听问句选答语",
+      "tip": "听问句，选出最合适的回答",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 9,
+          "type": "question_response",
+          "options": [
+            "I'm thirsty.",
+            "I can drink.",
+            "I have water."
+          ],
+          "audio_asset": "audio/listening/W01D43/q09.mp3"
+        },
+        {
+          "id": 10,
+          "type": "question_response",
+          "options": [
+            "Thank you.",
+            "I'm sorry.",
+            "Yes, I am."
+          ],
+          "audio_asset": "audio/listening/W01D43/q10.mp3"
+        },
+        {
+          "id": 11,
+          "type": "question_response",
+          "options": [
+            "Yes, I am.",
+            "Yes, I do.",
+            "Yes, I can."
+          ],
+          "audio_asset": "audio/listening/W01D43/q11.mp3"
+        },
+        {
+          "id": 12,
+          "type": "question_response",
+          "options": [
+            "No, I'm not.",
+            "No, I don't.",
+            "No, I can't."
+          ],
+          "audio_asset": "audio/listening/W01D43/q12.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "name": "听对话选答案",
+      "tip": "听短对话和问题，选出正确答案",
+      "max_plays": 2,
+      "questions": [
+        {
+          "id": 13,
+          "type": "dialogue_choice",
+          "options": [
+            "Water.",
+            "A book.",
+            "A ball."
+          ],
+          "question_text": "What does the girl need?",
+          "audio_asset": "audio/listening/W01D43/q13.mp3"
+        },
+        {
+          "id": 14,
+          "type": "dialogue_choice",
+          "options": [
+            "Happy.",
+            "Tired.",
+            "Full."
+          ],
+          "question_text": "How does Jill feel?",
+          "audio_asset": "audio/listening/W01D43/q14.mp3"
+        },
+        {
+          "id": 15,
+          "type": "dialogue_choice",
+          "options": [
+            "Yes, he is.",
+            "No, he isn't.",
+            "We don't know."
+          ],
+          "question_text": "Is the boy hungry?",
+          "audio_asset": "audio/listening/W01D43/q15.mp3"
+        },
+        {
+          "id": 16,
+          "type": "dialogue_choice",
+          "options": [
+            "The girl.",
+            "The boy.",
+            "Ginger."
+          ],
+          "question_text": "Who has an idea?",
+          "audio_asset": "audio/listening/W01D43/q16.mp3"
+        }
+      ]
+    },
+    {
+      "id": "passage",
+      "name": "听短文判断",
+      "tip": "先听短文，再判断四句话是否正确",
+      "max_plays": 3,
+      "shared_audio": true,
+      "passage_audio_asset": "audio/listening/W01D43/p01.mp3",
+      "questions": [
+        {
+          "id": 17,
+          "type": "passage_judge",
+          "statement": "Kitty is hungry at first."
+        },
+        {
+          "id": 18,
+          "type": "passage_judge",
+          "statement": "Kitty has some water."
+        },
+        {
+          "id": 19,
+          "type": "passage_judge",
+          "statement": "Ben drinks water."
+        },
+        {
+          "id": 20,
+          "type": "passage_judge",
+          "statement": "Ben is sad at the end."
+        }
+      ]
+    }
+  ]
+}
