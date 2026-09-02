@@ -119,66 +119,6 @@
       "audio/speaking/S01D50/q06.mp3": "e93de4bf91db1ae6",
       "audio/speaking/S01D50/q07.mp3": "adfaa1eb448b4f8e",
       "audio/speaking/S01D50/q08.mp3": "8067d761bc5a2516"
-    },
-    "S4A-T1-W01-D01": {
-      "audio/speaking/S4A-T1-W01-D01/q01.mp3": "29616ee3aeb2231d",
-      "audio/speaking/S4A-T1-W01-D01/q02.mp3": "ec4f012a111bc80b",
-      "audio/speaking/S4A-T1-W01-D01/q03.mp3": "7f72f304d68df594",
-      "audio/speaking/S4A-T1-W01-D01/q04.mp3": "0e0af6417c6e2582",
-      "audio/speaking/S4A-T1-W01-D01/q05.mp3": "fd5ce6e74fd32a64",
-      "audio/speaking/S4A-T1-W01-D01/q06.mp3": "d19ade21bfa122a3",
-      "audio/speaking/S4A-T1-W01-D01/q07.mp3": "7f69d1f8a9d62172",
-      "audio/speaking/S4A-T1-W01-D01/q08.mp3": "8b93287729334dd6"
-    },
-    "S4A-T1-W01-D02": {
-      "audio/speaking/S4A-T1-W01-D02/q01.mp3": "ea5cc587c69d6224",
-      "audio/speaking/S4A-T1-W01-D02/q02.mp3": "f3468fefbd890a23",
-      "audio/speaking/S4A-T1-W01-D02/q03.mp3": "e181b1936f1b683e",
-      "audio/speaking/S4A-T1-W01-D02/q04.mp3": "e74bce03aa721a53",
-      "audio/speaking/S4A-T1-W01-D02/q05.mp3": "50c5c45a9530c2bc",
-      "audio/speaking/S4A-T1-W01-D02/q06.mp3": "d0800623049f96f8",
-      "audio/speaking/S4A-T1-W01-D02/q07.mp3": "7f69d1f8a9d62172",
-      "audio/speaking/S4A-T1-W01-D02/q08.mp3": "bb9c5d137c9293dd"
-    },
-    "S4A-T1-W01-D03": {
-      "audio/speaking/S4A-T1-W01-D03/q01.mp3": "9ac64ccec86c3c9d",
-      "audio/speaking/S4A-T1-W01-D03/q02.mp3": "8d74dbdd925b9fd0",
-      "audio/speaking/S4A-T1-W01-D03/q03.mp3": "7af569886ae5dc06",
-      "audio/speaking/S4A-T1-W01-D03/q04.mp3": "71624f30ddeb4321",
-      "audio/speaking/S4A-T1-W01-D03/q05.mp3": "ad2777f33e535921",
-      "audio/speaking/S4A-T1-W01-D03/q06.mp3": "9c0a3b515037cc69",
-      "audio/speaking/S4A-T1-W01-D03/q07.mp3": "773ac4ed85d9a5be",
-      "audio/speaking/S4A-T1-W01-D03/q08.mp3": "54f1032364bd0879"
-    },
-    "S4A-T1-W01-D04": {
-      "audio/speaking/S4A-T1-W01-D04/q01.mp3": "c95f03f1a669313d",
-      "audio/speaking/S4A-T1-W01-D04/q02.mp3": "cde0ad77db276f20",
-      "audio/speaking/S4A-T1-W01-D04/q03.mp3": "7bc7b010fc0a3a4f",
-      "audio/speaking/S4A-T1-W01-D04/q04.mp3": "0ca5640e0a1458aa",
-      "audio/speaking/S4A-T1-W01-D04/q05.mp3": "aa295267bc1736cb",
-      "audio/speaking/S4A-T1-W01-D04/q06.mp3": "9ac64ccec86c3c9d",
-      "audio/speaking/S4A-T1-W01-D04/q07.mp3": "93be6c47dfc03338",
-      "audio/speaking/S4A-T1-W01-D04/q08.mp3": "fc6bff138ff832e4"
-    },
-    "S4A-T1-W01-D05": {
-      "audio/speaking/S4A-T1-W01-D05/q01.mp3": "49b84a738e4994cd",
-      "audio/speaking/S4A-T1-W01-D05/q02.mp3": "d4b81d52014c32c8",
-      "audio/speaking/S4A-T1-W01-D05/q03.mp3": "77b27dbb1f25ae6d",
-      "audio/speaking/S4A-T1-W01-D05/q04.mp3": "358a915d14015245",
-      "audio/speaking/S4A-T1-W01-D05/q05.mp3": "1f904ab78a7655ae",
-      "audio/speaking/S4A-T1-W01-D05/q06.mp3": "8474d6d1f767193e",
-      "audio/speaking/S4A-T1-W01-D05/q07.mp3": "51ffa206df7dad7f",
-      "audio/speaking/S4A-T1-W01-D05/q08.mp3": "2fc644736e329785"
-    },
-    "S4A-T1-W01-D06": {
-      "audio/speaking/S4A-T1-W01-D06/q01.mp3": "705a42f2d04db64f",
-      "audio/speaking/S4A-T1-W01-D06/q02.mp3": "ad2777f33e535921",
-      "audio/speaking/S4A-T1-W01-D06/q03.mp3": "9c0a3b515037cc69",
-      "audio/speaking/S4A-T1-W01-D06/q04.mp3": "323692f70c297da2",
-      "audio/speaking/S4A-T1-W01-D06/q05.mp3": "3c9133016a122f52",
-      "audio/speaking/S4A-T1-W01-D06/q06.mp3": "e8634676a35faed8",
-      "audio/speaking/S4A-T1-W01-D06/q07.mp3": "51ffa206df7dad7f",
-      "audio/speaking/S4A-T1-W01-D06/q08.mp3": "2fc644736e329785"
     }
   }
 }
